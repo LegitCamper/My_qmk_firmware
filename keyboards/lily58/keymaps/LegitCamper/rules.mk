@@ -2,7 +2,7 @@
 MCU = at90usb1286
 
 # Bootloader selection
-BOOTLOADER = atmel-dfu
+BOOTLOADER = caterina # atmel-dfu
 
 # Build Options
 BOOTMAGIC_ENABLE = no       # Enable Bootmagic Lite
