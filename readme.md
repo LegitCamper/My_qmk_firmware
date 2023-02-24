@@ -3,3 +3,4 @@ After switching to the Lily58 keyboard I found myself building a repository of f
 
 # My Lily58 Custom Layout
  - /keyboards/lily58/keymaps/LegitCamper/
+ - /keyboards/boardsource/lulu/keymaps/LegitCamper-rp2040/
